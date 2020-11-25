@@ -5,7 +5,7 @@
 
 - 😄 My Pronouns: She/Her   
 - 💬 Ask me about: React 🥰 
-- 📫 How to reach me: via direct message on twitter [@udochiop](https://www.linkedin.com/in/udochi-oparaocha-16a01388/) or email blessingudochi@gmail.com
+- 📫 How to reach me: via direct message on Linkedin [@udochiop](https://www.linkedin.com/in/udochi-oparaocha-16a01388/) or email blessingudochi@gmail.com
 - ⚡ Fun fact: I am a Manchester United football club fan girl
 
 <br />
