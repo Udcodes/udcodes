@@ -14,4 +14,6 @@
    <a href="https://www.linkedin.com/in/udochi-oparaocha-16a01388/">LinkedIn</a> •
    <a href="https://twitter.com/udochiop">Twitter</a>
  </p>
+ 
+ ![Profile views](https://gpvc.arturio.dev/[Udcodes])
 
