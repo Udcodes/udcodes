@@ -1,5 +1,5 @@
 ### Hi there! 👋🏽 👩🏽‍💻
-My name is Udochi and I am a female Frontend Engineer currently working on [Find-A-Recruiter](https://find-a-recruiter.com/) - a web application that provides a portal for Employers to connect with Recruiting Professionals to help meet their needs with finding the right talents in a simple way.
+My name is Udochi and I am a female Frontend Developer currently working on [Find-A-Recruiter](https://find-a-recruiter.com/) - a web application that provides a portal for Employers to connect with Recruiting Professionals to help meet their needs with finding the right talents in a simple way.
 
 <br />
 
